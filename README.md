@@ -15,7 +15,7 @@ Testing has primarily been done with the following configuration:
 
 * Atleast 1GB of memory
 * Preferrably more than 1 CPU/Core
-    `atlas-devel blas-devel gcc gcc-gfortran libffi-devel make`
+* `atlas-devel blas-devel gcc gcc-gfortran libffi-devel make`
     
 ### Installation
 
